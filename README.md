@@ -78,7 +78,7 @@ the code implementation of the proposed methods in papers
     2019
  ```
 
-## threshold_adaptive_window_selection.py
+## threshold_adawinsel_lim.py
 
 ```text
 Qingming Huang, Wen Gao, Wenjian Cai,
