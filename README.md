@@ -87,3 +87,12 @@ Pattern Recognition Letters,
 Volume 26, Issue 6,
 2005,
 ```
+
+## threshold_adawinsel_nmdm.py
+
+```text
+Pattnaik, Tapaswini & Kanungo, Priyadarshi. (2021).
+Adaptive Window Selection for Non-uniform Lighting Image Thresholding.
+ELCVIA Electronic Letters on Computer Vision and Image Analysis. 20. 10.5565/rev/elcvia.1301.
+2021
+```
