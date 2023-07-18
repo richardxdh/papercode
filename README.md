@@ -2,6 +2,23 @@
 
 the code implementation of the proposed methods in papers
 
+---
+
+## How to Read a Paper Efficiently (By Prof. Pete Carr)
+
+1. Don't read article from beginning to end
+2. Surveying the article
+    * Read title and keywords
+    * Read abstracts and conclusions
+3. Phase II
+    * Look at table and figures including captions
+    * Read introduction
+    * Read results and discussions
+    * Read the experimental for more details
+    * Write some notes to avoid rereading
+
+---
+
 ## otsu_based_threshold.py
 
 - otsu
